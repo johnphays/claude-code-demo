@@ -1,4 +1,4 @@
-# Todo — AI Educational Website (Synapse)
+# Todo — AI Educational Website (Synapse) — UI Refresh
 
 ## Plan
 
@@ -32,6 +32,39 @@ Build a single-file `index.html` educational website about AI. Minimal, modern d
 - [x] Build CTA/email capture banner
 - [x] Build footer
 - [x] Add responsive breakpoints
+
+---
+
+---
+
+## UI Refresh — Inspired by Next.js Learn page
+
+### Plan
+
+Update `index.html` to reflect the clean, light, centered design language from the reference image. Keep all existing sections — only update visual style, not content.
+
+**Changes planned:**
+1. Switch color palette from dark to light — white bg, dark text, blue/indigo accents
+2. Redesign hero: centered headline + subtitle + a floating course-preview card (book mockup + chapter rows + CTA), replacing the current image + floating cards layout
+3. Update nav to light theme — white bg, dark links, black enroll button
+4. Update courses grid cards to light style — white cards, light borders, dark text
+5. Update stats bar to light background variant
+6. Update featured course, instructor, and CTA sections to match light theme
+7. Testimonials already light — adjust card styles to match new palette
+8. Update footer to light theme
+
+### Checklist
+
+- [x] Update CSS custom properties to light palette
+- [x] Update nav to light theme
+- [x] Redesign hero (centered, course-preview card widget)
+- [x] Update courses grid to light card style
+- [x] Update stats bar to light theme
+- [x] Update featured course section to light theme
+- [x] Update instructor section to light theme
+- [x] Update testimonials to match new palette
+- [x] Update CTA banner to light theme
+- [x] Update footer to light theme
 
 ---
 
