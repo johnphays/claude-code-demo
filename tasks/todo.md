@@ -39,6 +39,11 @@ Build a single-file `index.html` educational website about AI. Minimal, modern d
 
 All 12 items completed step by step.
 
+**Repository:**
+- GitHub: https://github.com/johnphays/claude-code-demo
+- Branch: `main`
+- Commit: initial commit (3 files, 960 insertions)
+
 **Files changed:**
 - `demo/index.html` — created (single self-contained file, HTML + embedded CSS)
 - `demo/tasks/todo.md` — this file
